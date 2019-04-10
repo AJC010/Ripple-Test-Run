@@ -127,11 +127,3 @@ div.desc {
 }
 
 <!--Coding for box-->
-
-.container {
-  border: 2px solid black;
-  outline: #4CAF50 solid 10px;
-  margin: auto;
-  padding: 20px;
-  text-align: center;
-}
